@@ -1,6 +1,6 @@
 # Visit Oromia App  with Admin panel
 Visit Oromia App is a complete travel guide app based on a country that is completely developed on Google’s Flutter. It has also an admin panel which is also developed on Flutter Web. It works on both android & iOS. We have used Firestore Database as backend and Provider for state management and applied lots of animations to make this user-friendly. We have used Google maps and Its APIs to get nearby data like hotels and restaurants and show routes between the source and destination. It contains 50+ screens and clean & structured code samples.
-![Screenshot_20221212-112720](https://user-images.githubusercontent.com/61195602/207001195-e218e639-2fbb-4d99-84ae-76bcb96e956b.jpg)
+[](https://user-images.githubusercontent.com/61195602/207001195-e218e639-2fbb-4d99-84ae-76bcb96e956b.jpg =260x620)
 ![Screenshot_20221212-112724](https://user-images.githubusercontent.com/61195602/207001196-3bd0b9fe-3894-43bd-b135-6baa59474abf.jpg)
 ![Screenshot_20221212-112741](https://user-images.githubusercontent.com/61195602/207001271-55b0ca6b-4dfa-40bb-8c87-bbcf0ec0c522.jpg)
 ![Screenshot_20221212-112806](https://user-images.githubusercontent.com/61195602/207001296-e6c6da7b-b336-4a19-bd7e-a53197556528.jpg)
