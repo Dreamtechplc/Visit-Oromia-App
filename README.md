@@ -10,4 +10,4 @@ Visit Oromia App is a complete travel guide app based on a country that is compl
 <img src="https://user-images.githubusercontent.com/61195602/207001375-f28a965c-11f4-46cb-aa0f-a3ea1834c082.jpg"  width="200" height="400" />
 
 
-# For more info -> dreamtechs.io
+# For more info -> dreamtech.et
